@@ -112,8 +112,10 @@ def chiSquaredAdv():
     
     if pValue > p:
         print("These results are statistically significant. There is enough evidence to reject the null hypothesis ")
+        return True
     else:
         print("These results are not statistically significant. There is not enough evidence to reject the null hypothesis. ")
+        return False
     
 
         
@@ -126,4 +128,6 @@ def chiSquaredCycle():
         while done == False:
             crash = chiSquaredAdv()
             if crash != "restart":
-                done == True      
+                done == True  
+                
+    return crash
