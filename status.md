@@ -27,3 +27,5 @@ I have yet to finish the Punnet Square automation.
 #### What problems, if any, have you encountered?
 
 It is really difficult to figure out how to create all possible combinations from lists of lists. I've organized my alleles in lists, which are all stored in a bigger list by gene. 
+
+Note. I changed my project to this after splitting with Omar Shakir. I gained approval from Dr. Rosen.
