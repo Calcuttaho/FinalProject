@@ -5,6 +5,10 @@ Tabulate is required for both the Punnett Square and the Chi-Squared Analysis. T
 
   pip install tabulate
   
+You're going to need SciPy, too.
+
+  pip install scipy
+  
 I have to say, I thought programming was easy before this project. I guess too many labs that are self-explanatory are intentionally designed to have straightforward solutions without really require much thought will do that to you. Having to create your own logic to automate something and figure out how to put that in words is an entirely different ballgame. There were parts of this lab, especially in the Punnett Square, where knowing what I had to do but not knowing how to do it was quite possibly the most frustrating thing I had ever experienced. Fortunately, I also discovered that many of these things are common issues, and if its frustrating, someone has created a module in python for it. i don't think I would have figured out how to generate all combinations of alleles had I not discovered iterTools. 
 
 That's not even mentioning the things that didn't work because... reasons? I'm still not sure why they didn't work. All I know is that I found another way to get to where I needed to be.
