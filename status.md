@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Ryan Shawareb
 
 #### Your section leader's name
 
-TODO
+Sky Gao
 
 #### Project title
 
-TODO
+Genetic Tedium Automated
 
 ***
 
@@ -18,12 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+I've finished the Chi-Squared Table
 
 #### What have you not done for your project yet?
 
-TODO
+I have yet to finish the Punnet Square automation.
 
 #### What problems, if any, have you encountered?
 
-TODO
+It is really difficult to figure out how to create all possible combinations from lists of lists. I've organized my alleles in lists, which are all stored in a bigger list by gene. 
